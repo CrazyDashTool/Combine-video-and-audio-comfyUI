@@ -56,5 +56,5 @@ Uses **ffprobe** to return duration, resolution, and codec details.
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone <repo-url> comfyui-combine-video-audio
+git clone https://github.com/CrazyDashTool/Combine-video-and-audio-comfyUI
 # Restart ComfyUI
